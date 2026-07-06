@@ -36,7 +36,42 @@ Built as a capstone project for the **Kaggle × Google AI Intensive Course**, Da
 ### Uploading Dataset
 
 <p align="center">
-<img src="images/4.png" width="900">
+<img src="images/four.png" width="900">
+</p>
+
+---
+### Agents in Process
+
+<p align="center">
+<img src="images/5.png" width="900">
+</p>
+
+---
+### Visualization
+
+<p align="center">
+<img src="images/6.png" width="900">
+</p>
+
+---
+### Insights
+
+<p align="center">
+<img src="images/7.png" width="900">
+</p>
+
+---
+### Recommendations
+
+<p align="center">
+<img src="images/8.png" width="900">
+</p>
+
+---
+### Report
+
+<p align="center">
+<img src="images/9.png" width="900">
 </p>
 
 ---
