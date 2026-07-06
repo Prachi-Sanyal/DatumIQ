@@ -96,3 +96,7 @@ def forgot_password(payload: ForgotPasswordRequest, db: Session = Depends(get_db
         "status": "success",
         "message": f"Password reset instructions have been dispatched to {payload.email}."
     }
+
+@router.get("/me", response_model=UserResponse)
+def read_current_user(current_user: User = Depends(get_current_user)):
+    return current_user
