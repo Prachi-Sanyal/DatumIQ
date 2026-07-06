@@ -33,6 +33,13 @@ Built as a capstone project for the **Kaggle × Google AI Intensive Course**, Da
 </p>
 
 ---
+### Uploading Dataset
+
+<p align="center">
+<img src="images/4.png" width="900">
+</p>
+
+---
 
 # ✨ Features
 
